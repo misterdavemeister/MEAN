@@ -1,0 +1,5 @@
+pushing to heroku:
+  git add . ; git commit -m "ready to deploy"
+  heroku create
+  heroku config:set NODE_ENV=production
+  git push heroku master

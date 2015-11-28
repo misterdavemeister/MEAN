@@ -3,3 +3,4 @@ pushing to heroku:
   heroku create
   heroku config:set NODE_ENV=production
   git push heroku master
+  heroku ps:scale web=1  (this is supposed to cause it to run, but it was running without this command)

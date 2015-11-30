@@ -1,3 +1,4 @@
+'use strict';
 var express = require('express'),
     stylus = require('stylus'),
     logger = require('morgan'),
@@ -21,7 +22,7 @@ app.use(stylus.middleware(
     compile: compile
   }
 ));
-app.use(express.static(__dirname + "/public"));
+app.use(express.static(__dirname + '/public'));
 
 if (env === 'development') {
   //$ NODE_ENV=development nodemon server.js
@@ -34,7 +35,7 @@ if (env === 'development') {
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error...'));
 db.once('open', function callback() {
-  console.log('multivision db opened');
+  console.log(new Date() + ': ...multivision db opened...');
 });
 
 app.get('/partials/:partialPath', function(req, res) {
@@ -47,4 +48,5 @@ app.get('*', function(req, res) {
 
 var port = process.env.PORT || 3030;
 app.listen(port);
-console.log("Listening on port " + port + "...");
+
+console.log(new Date() + ': Listening on port ' + port + '...');

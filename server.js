@@ -16,6 +16,8 @@ function compile(str, path) {
 
 app.set('views', __dirname + '/server/views');
 app.set('view engine', 'jade');
+app.use(logger('dev'));
+app.use(bodyParser());
 app.use(stylus.middleware(
   {
     src: __dirname + '/public',
@@ -38,8 +40,8 @@ db.once('open', function callback() {
   console.log(new Date() + ': ...multivision db opened...');
 });
 
-app.get('/partials/:partialPath', function(req, res) {
-  res.render('partials/' + req.params.partialPath)
+app.get('/partials/*', function(req, res) {
+  res.render('../../public/app/' + req.params[0])
 });
 
 app.get('*', function(req, res) {

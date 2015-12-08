@@ -2,8 +2,730 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d65cffc3-1be2-4dbd-8ec8-7dc49dad8e6f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mongoSettings.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/1-building-angularjs-nodejs-apps-mean-m1-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/mvProfileCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/mvSignupCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/profile.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/account/signup.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/courses/course-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/courses/course-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/courses/mvCachedCourses.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/courses/mvCourse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/courses/mvCourseListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/controllers/courses.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/controllers/users.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/models/Course.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/models/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/utilities/encryption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/finished/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/mvProfileCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/mvSignupCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/profile.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/account/signup.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/controllers/users.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/models/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/utilities/encryption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-exercise-files/original/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/10-building-angularjs-nodejs-apps-mean-m10-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/mvProfileCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/mvSignupCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/profile.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/account/signup.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/courses/course-details.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/courses/course-details.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/courses/course-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/courses/course-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/courses/mvCachedCourses.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/courses/mvCourse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/courses/mvCourseDetailCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/courses/mvCourseListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/controllers/courses.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/controllers/users.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/models/Course.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/models/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/utilities/encryption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/finished/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/mvProfileCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/mvSignupCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/profile.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/account/signup.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/courses/course-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/courses/course-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/courses/mvCachedCourses.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/courses/mvCourse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/courses/mvCourseListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/controllers/courses.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/controllers/users.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/models/Course.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/models/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/utilities/encryption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-exercise-files/original/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/11-building-angularjs-nodejs-apps-mean-m11-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/server/views/partials/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-exercise-files/finished/MultiVision/server/views/partials/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/2-building-angularjs-nodejs-apps-mean-m2-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/server/views/partials/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/finished/MultiVision/server/views/partials/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/server/views/partials/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-exercise-files/original/MultiVision/server/views/partials/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/3-building-angularjs-nodejs-apps-mean-m3-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/views/partials/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/views/partials/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/views/partials/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/views/partials/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/views/partials/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/finished/MultiVision/server/views/partials/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/server/views/partials/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-exercise-files/original/MultiVision/server/views/partials/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/4-building-angularjs-nodejs-apps-mean-m4-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/finished/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/views/partials/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/views/partials/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/views/partials/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/views/partials/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/views/partials/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-exercise-files/original/MultiVision/server/views/partials/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/5-building-angularjs-nodejs-apps-mean-m5-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-exercise-files/original/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/6-building-angularjs-nodejs-apps-mean-m6-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/finished/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-exercise-files/original/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/7-building-angularjs-nodejs-apps-mean-m7-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/mvSignupCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/account/signup.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/controllers/users.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/models/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/utilities/encryption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/finished/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-exercise-files/original/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/8-building-angularjs-nodejs-apps-mean-m8-slides.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/mvProfileCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/mvSignupCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/profile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/profile.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/account/signup.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/controllers/users.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/models/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/utilities/encryption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/finished/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/Procfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/mvAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/mvIdentity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/mvNavBarLoginCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/mvSignupCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/mvUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/navbar-login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/navbar-login.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/signup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/account/signup.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/admin/mvUserListCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/admin/user-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/admin/user-list.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/common/mvNotifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/main/featured-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/main/featured-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/main/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/main/main.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/main/mvMainCtrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/main/new-courses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/app/main/new-courses.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/css/site.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/css/site.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/config/auth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/config/mongoose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/config/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/controllers/users.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/includes/currentUser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/includes/currentUser.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/includes/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/includes/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/models/User.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/utilities/encryption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/views/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/server/views/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/test/test-app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-exercise-files/original/MultiVision/test/tests/account/mvUserSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/building-angularjs-nodejs-apps-mean/9-building-angularjs-nodejs-apps-mean-m9-slides.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/account/mvAuth.js" afterPath="$PROJECT_DIR$/public/app/account/mvAuth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/account/mvNavBarLoginCtrl.js" afterPath="$PROJECT_DIR$/public/app/account/mvNavBarLoginCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/account/navbar-login.jade" afterPath="$PROJECT_DIR$/public/app/account/navbar-login.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/main/featured-courses.jade" afterPath="$PROJECT_DIR$/public/app/main/featured-courses.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/app/main/main.jade" afterPath="$PROJECT_DIR$/public/app/main/main.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/auth.js" afterPath="$PROJECT_DIR$/server/config/auth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/mongoose.js" afterPath="$PROJECT_DIR$/server/config/mongoose.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/routes.js" afterPath="$PROJECT_DIR$/server/config/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/includes/scripts.jade" afterPath="$PROJECT_DIR$/server/includes/scripts.jade" />
     </list>
     <ignored path="multivision.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,22 +745,22 @@
     <favorites_list name="multivision" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="featured-courses.jade" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/app/main/featured-courses.jade">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="navbar-login.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/app/account/navbar-login.jade">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="site.styl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/css/site.styl">
+      <file leaf-file-name="scripts.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/includes/scripts.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32181168">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -48,7 +770,67 @@
         <entry file="file://$PROJECT_DIR$/public/app/account/mvAuth.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvNavBarLoginCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/app/account/mvNavBarLoginCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvNotifier.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/app/common/mvNotifier.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvMainCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/app/main/mvMainCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/config/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.21505377">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/config/auth.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mvIdentity.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/app/account/mvIdentity.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -62,8 +844,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/app/account/mvAuth.js" />
+        <option value="$PROJECT_DIR$/public/css/site.styl" />
         <option value="$PROJECT_DIR$/public/app/main/featured-courses.jade" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/server/config/auth.js" />
+        <option value="$PROJECT_DIR$/public/app/main/main.jade" />
+        <option value="$PROJECT_DIR$/server/config/mongoose.js" />
+        <option value="$PROJECT_DIR$/public/app/account/navbar-login.jade" />
+        <option value="$PROJECT_DIR$/server/includes/scripts.jade" />
+        <option value="$PROJECT_DIR$/public/app/account/mvNavBarLoginCtrl.js" />
+        <option value="$PROJECT_DIR$/public/app/account/mvAuth.js" />
+        <option value="$PROJECT_DIR$/server/config/routes.js" />
       </list>
     </option>
   </component>
@@ -98,15 +889,81 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
+      <autoscrollToSource ProjectPane="true" />
       <autoscrollFromSource />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="multivision">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="multivision">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="public">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="multivision">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="public">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="multivision">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="public">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="app">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="account">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -135,7 +992,157 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multivision" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,14 +1250,72 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="javascript.nodejs.core.library.configured.version" value="5.1.0" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.1.0/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MongoRunConfiguration" factoryName="Mongo">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -278,22 +1343,24 @@
     <frame x="4" y="29" width="1276" height="983" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25099602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22933549" sideWeight="0.49607182" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5039282" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.7012263" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="165" y="420" width="915" height="589" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.7012263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="63" y="298" width="915" height="589" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -309,22 +1376,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/app/account/mvNavBarLoginCtrl.js">
+    <entry file="file://$PROJECT_DIR$/public/css/site.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/app/account/navbar-login.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1216686">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -332,7 +1393,71 @@
     <entry file="file://$PROJECT_DIR$/public/app/account/mvAuth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/navbar-login.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/mvNavBarLoginCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/mvIdentity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -340,15 +1465,225 @@
     <entry file="file://$PROJECT_DIR$/public/app/main/featured-courses.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/site.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32181168">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/mvAuth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/main/featured-courses.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/site.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/mvAuth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/main/featured-courses.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/site.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/mvAuth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bson/browser_build/bson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12544803">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/main/featured-courses.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/site.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46594983">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/main/main.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16129032">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14336918">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32258064">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/vendor/bootstrap/package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/includes/scripts.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/navbar-login.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/mvIdentity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/mvAuth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/account/mvNavBarLoginCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/common/mvNotifier.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/app/main/mvMainCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21505377">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding />
         </state>
       </provider>

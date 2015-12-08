@@ -1,1 +1,0 @@
-the finished demo project is in folder 6-building-angularjs-nodejs-apps-mean-m6-exercise-files

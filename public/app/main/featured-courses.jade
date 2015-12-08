@@ -3,4 +3,3 @@
   .panel-body
     .row(ng-repeat="course in courses | filter:{featured:true} | limitTo:10")
       .col-md-12 {{course.name}}
-

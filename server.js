@@ -25,11 +25,6 @@ passport.use(new LocalStrategy(
   }
 ));
 
-app.use(function(req, res, next) {
-  console.log(req.user);
-  next();
-});
-
 passport.serializeUser(function(user, done) {
   if (user) {
     return done(null, user._id);

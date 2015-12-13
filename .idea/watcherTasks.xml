@@ -18,7 +18,9 @@
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
-      <envs />
+      <envs>
+        <env name="PATH" value="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin" />
+      </envs>
     </TaskOptions>
     <TaskOptions isEnabled="true">
       <option name="arguments" value="$FileName$" />
@@ -37,7 +39,9 @@
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
-      <envs />
+      <envs>
+        <env name="PATH" value="PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin" />
+      </envs>
     </TaskOptions>
   </component>
 </project>

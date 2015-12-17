@@ -1,4 +1,6 @@
 .container
   table.table
     tr(ng-repeat="user in users")
-      td {{ user.firstName + ' ' + user.lastName }}
+      td(ng-show="user.isAdmin()") {{ user.firstName + ' ' + user.lastName }}
+      td(ng-show="!user.isAdmin()")
+        a(href="", ng-click="viewUser(user)") {{ user.firstName + ' ' + user.lastName }}

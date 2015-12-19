@@ -10,8 +10,8 @@ module.exports = function(app) {
   app.get('/api/users', auth.requiresRole('admin'), users.getUsers);
   app.post('/api/users', users.createUser);
   app.put('/api/users', users.updateUser);
-
-  //app.get('/api/user/:id', auth.requiresRole('admin'), users.getUserById);
+  app.get('/api/users/:id', users.getUserById);
+  app.delete('/api/users/:id', auth.requiresRole('admin'), users.deleteUser);
 
   app.get('/api/courses', courses.getCourses);
   app.get('/api/courses/:id', courses.getCourseById);

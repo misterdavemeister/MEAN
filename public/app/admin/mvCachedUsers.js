@@ -7,6 +7,10 @@ angular.module('app').factory('mvCachedUsers', function(mvUser) {
         userList = mvUser.query();
       }
       return userList;
+    },
+    reload: function() {
+      userList = mvUser.query();
+      return userList;
     }
   }
 });

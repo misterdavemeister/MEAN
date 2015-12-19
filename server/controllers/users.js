@@ -46,3 +46,16 @@ exports.updateUser = function(req, res) {
     res.send(req.user);
   })
 };
+
+exports.getUserById = function(req, res) {
+  User.findOne({_id: req.params.id}).exec(function(user) {
+    res.send(user);
+  });
+};
+
+exports.deleteUser = function(req, res) {
+  User.remove({_id: req.params.id}, function(err) {
+    if (err) {res.sendStatus(400); res.send({reason:err.toString()});}
+    res.sendStatus(200);
+  });
+};

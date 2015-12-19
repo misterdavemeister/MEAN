@@ -1,4 +1,4 @@
-angular.module('app').controller('mvUserDetailCtrl', function($scope, mvCachedUsers, $routeParams, mvUser, $location, $route, $window, mvNotifier) {
+angular.module('app').controller('mvUserDetailCtrl', function($scope, mvCachedUsers, $routeParams, mvUser, $location, mvNotifier) {
   mvCachedUsers.query().$promise.then(function(collection) {
     collection.forEach(function(user) {
       if (user._id === $routeParams.id) {
